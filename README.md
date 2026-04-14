@@ -30,10 +30,15 @@ My role: Project structure, core logic, and integration
 Riya Arya’s role: Frontend styling (CSS) and timer functionality
 
 📷 Screenshots
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d2ec78ed-42fc-4ad9-8b9e-2de6f77fb1e6" /> 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cc874e8b-0690-4449-9db2-2ef6dab61ce8" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/477e417a-4f4e-4d8d-8fde-506419ebee51" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b365a92-c9fd-4fd4-9b5f-590a3a8429a8" />
+<img width="1910" height="892" alt="image" src="https://github.com/user-attachments/assets/e0f57f6e-3990-4c4c-bcb6-dac1d973c2c5" />
+
+<img width="1904" height="872" alt="image" src="https://github.com/user-attachments/assets/c26a29de-50e0-4005-8abf-da514de96ead" />
+
+<img width="1886" height="885" alt="image" src="https://github.com/user-attachments/assets/fcf354e8-5314-497b-9419-87e503044ecd" />
+
+
+<img width="1898" height="887" alt="image" src="https://github.com/user-attachments/assets/619bd4cd-cbc4-4ebe-885b-42b4362032cb" />
+
 
 📂 How to Run
 
